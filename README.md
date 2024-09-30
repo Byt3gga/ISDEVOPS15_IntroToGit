@@ -1,2 +1,2 @@
 # My First Git Project
-Shaun Lim - Introduction to Git
+Shaun Lim - Intro to Devops
